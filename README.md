@@ -124,3 +124,6 @@ Emoji:
 emoji-cheat-sheet.com
 Markup : Code appears between colons :EMOJICODE:
 :mask:
+
+Nuntanut Thonginta
+672115027
